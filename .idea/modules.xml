@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/myerp.iml" filepath="$PROJECT_DIR$/src/myerp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/myerp-business/myerp-business.iml" filepath="$PROJECT_DIR$/src/myerp-business/myerp-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/myerp-consumer/myerp-consumer.iml" filepath="$PROJECT_DIR$/src/myerp-consumer/myerp-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/myerp-model/myerp-model.iml" filepath="$PROJECT_DIR$/src/myerp-model/myerp-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/myerp-technical/myerp-technical.iml" filepath="$PROJECT_DIR$/src/myerp-technical/myerp-technical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projet_B4_FR.iml" filepath="$PROJECT_DIR$/.idea/projet_B4_FR.iml" />
+    </modules>
+  </component>
+</project>
